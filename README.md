@@ -1,7 +1,7 @@
-# CS11: TensorFlow
+# CS 11: TensorFlow
 *Note: This course was made by Aidan Swope (Class of 2020) in TensorFlow 1. The current iteration has been upgraded to TensorFlow 2. Click [here](https://github.com/maxwells-daemons/caltech-cs11-tensorflow) to view the original repository.*
 
-Repository for the Caltech CS11 TensorFlow track. Course outline [here](https://docs.google.com/document/d/1T-P5P3DLQOvGEZuvW2Bp380TPyfO01rclFBOQYXJyS0/edit?usp=sharing).
+Repository for the Caltech CS 11: TensorFlow track. Course outline [here](https://docs.google.com/document/d/1T-P5P3DLQOvGEZuvW2Bp380TPyfO01rclFBOQYXJyS0/edit?usp=sharing).
 
 This course is intended as a fast-paced introduction to machine learning with TensorFlow and Keras, focused particularly on neural networks.
 It gives a whirlwind tour of several types of models, and brief coverage of several machine learning topics, but its primary goal is first and foremost to _get you comfortable with writing, training, and deploying sophisticated models in TensorFlow._
