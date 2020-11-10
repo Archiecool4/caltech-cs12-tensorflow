@@ -78,7 +78,7 @@ Then, create and check the virtual environment:
 ~~~
 mkvirtualenv -p /usr/bin/python3.6 cs11-tensorflow  # Point to the Python binary you'll be using
 workon cs11-tensorflow
-python --version  # Should print "Python 3.x.y" where x is 4, 5, or 6
+python --version  # Should print "Python 3.x.y" where x is 5, 6, 7, or 8
 ~~~
 To activate the environment, use `workon cs11-tensorflow`.
 To deactivate it when you're done, use `deactivate`.
@@ -86,7 +86,7 @@ To deactivate it when you're done, use `deactivate`.
 #### Required libraries
 Once you're in the virtual environment, run
 ~~~
-pip install numpy==1.18.4 scipy matplotlib ipython jupyter pandas scikit-learn tensorflow==2.1.2 keras
+pip install numpy==1.18.4 scipy matplotlib ipython jupyter pandas scikit-learn tensorflow==2.2.1 keras
 ~~~
 Then, try running `python -c "import tensorflow"` in your shell.
 If the line executes successfully (printing nothing), your setup is probably fine.
