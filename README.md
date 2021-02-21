@@ -125,13 +125,13 @@ I'll send out the relevant information (GitHub usernames, email addresses, etc) 
 
 ## Due dates
 The labs are due at the following times each term:
- - Lab 1: Beginning of the fourth week.
- - Lab 2: Beginning of the fifth week.
- - Lab 3: Beginning of the sixth week.
- - Lab 4: Beginning of the seventh week.
- - Lab 5: Beginning of the eight week.
- - Lab 6: Beginning of the ninth week.
- - Lab 7: Beginning of the tenth week.
+ - Lab 1: Beginning of the second week.
+ - Lab 2: Beginning of the third week.
+ - Lab 3: Beginning of the fourth week.
+ - Lab 4: Beginning of the sixth week (take week 5 off for midterms for your other classes).
+ - Lab 5: Beginning of the seventh week.
+ - Lab 6: Beginning of the eighth week.
+ - Lab 7: Beginning of the ninth week.
  
 At the start of term, I'll send out exact due dates.
 
