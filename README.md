@@ -1,7 +1,7 @@
-# CS 11: TensorFlow
+# CS 12: TensorFlow
 *Note: This course was made by Aidan Swope (Class of 2020) in TensorFlow 1. The current iteration has been upgraded to TensorFlow 2. Click [here](https://github.com/maxwells-daemons/caltech-cs11-tensorflow) to view the original repository.*
 
-Repository for the Caltech CS 11: TensorFlow track. Course outline [here](https://docs.google.com/document/d/1T-P5P3DLQOvGEZuvW2Bp380TPyfO01rclFBOQYXJyS0/edit?usp=sharing).
+Repository for the Caltech CS 12: TensorFlow track. Course outline [here](https://docs.google.com/document/d/1T-P5P3DLQOvGEZuvW2Bp380TPyfO01rclFBOQYXJyS0/edit?usp=sharing).
 
 This course is intended as a fast-paced introduction to machine learning with TensorFlow and Keras, focused particularly on neural networks.
 It gives a whirlwind tour of several types of models, and brief coverage of several machine learning topics, but its primary goal is first and foremost to _get you comfortable with writing, training, and deploying sophisticated models in TensorFlow._
@@ -76,11 +76,11 @@ pip install virtualenvwrapper
 [You might want to do additional setup here](http://roundhere.net/journal/virtualenv-ubuntu-12-10/).
 Then, create and check the virtual environment:
 ~~~
-mkvirtualenv -p /usr/bin/python3.6 cs11-tensorflow  # Point to the Python binary you'll be using
-workon cs11-tensorflow
+mkvirtualenv -p /usr/bin/python3.6 cs12-tensorflow  # Point to the Python binary you'll be using
+workon cs12-tensorflow
 python --version  # Should print "Python 3.x.y" where x is 5, 6, 7, or 8
 ~~~
-To activate the environment, use `workon cs11-tensorflow`.
+To activate the environment, use `workon cs12-tensorflow`.
 To deactivate it when you're done, use `deactivate`.
 
 #### Required libraries
@@ -125,10 +125,10 @@ I'll send out the relevant information (GitHub usernames, email addresses, etc) 
 
 ## Due dates
 The labs are due at the following times each term:
- - Lab 1: Beginning of the second week.
- - Lab 2: Beginning of the third week.
- - Lab 3: Beginning of the fourth week.
- - Lab 4: Beginning of the sixth week (take week 5 off for midterms for your other classes).
+ - Lab 1: Beginning of the third week.
+ - Lab 2: Beginning of the fourth week.
+ - Lab 3: Beginning of the fifth week.
+ - Lab 4: Beginning of the sixth week.
  - Lab 5: Beginning of the seventh week.
  - Lab 6: Beginning of the eighth week.
  - Lab 7: Beginning of the ninth week.
