@@ -120,7 +120,7 @@ Brownie points to anyone who gets their code running on a TPU.
 
 ## Submitting assignments
 To submit assignments, make a private GitHub repository forking this one.
-Give read access to me and the TAs for the term you're taking it, then for each assignment, email me the commit hash for your submission.
+Give read access to me and the TAs for the term you're taking it, then for each assignment, submit the commit hash for your homework on Canvas.
 I'll send out the relevant information (GitHub usernames, email addresses, etc) once people have registered for the class.
 
 ## Due dates
