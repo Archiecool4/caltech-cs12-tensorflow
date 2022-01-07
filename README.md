@@ -125,6 +125,7 @@ I'll send out the relevant information (GitHub usernames, email addresses, etc) 
 
 ## Due dates
 The labs are due at the following times each term:
+ - Lab 0: Beginning of the second week.
  - Lab 1: Beginning of the third week.
  - Lab 2: Beginning of the fourth week.
  - Lab 3: Beginning of the fifth week.
