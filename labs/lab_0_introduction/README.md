@@ -13,4 +13,4 @@ TensorFlow features this week:
  - TensorFlow docs
 
 Optional material:
- - If you a nice visual guide to review python take a look at this: [2022 Complete Python Bootcamp From Zero to Hero in Python](https://rb.gy/umyram).
+ - If you a nice visual guide to review Python take a look at this: [2022 Complete Python Bootcamp From Zero to Hero in Python](https://rb.gy/umyram).
