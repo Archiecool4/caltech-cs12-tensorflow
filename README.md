@@ -119,20 +119,20 @@ For any assignment that takes serious processing power, I'll write with Colabora
 Brownie points to anyone who gets their code running on a TPU.
 
 ## Submitting assignments
-To submit assignments, make a private GitHub repository forking this one.
+To submit assignments, make a *private* GitHub repository duplicating this one.
 Give read access to me and the TAs for the term you're taking it, then for each assignment, submit the commit hash for your homework on Canvas.
 I'll send out the relevant information (GitHub usernames, email addresses, etc) once people have registered for the class.
 
 ## Due dates
 The labs are due at the following times each term:
- - Lab 0: Beginning of the second week.
- - Lab 1: Beginning of the third week.
- - Lab 2: Beginning of the fourth week.
- - Lab 3: Beginning of the fifth week.
- - Lab 4: Beginning of the sixth week.
- - Lab 5: Beginning of the seventh week.
- - Lab 6: Beginning of the eighth week.
- - Lab 7: Beginning of the ninth week.
+ - Lab 0: End of the second week.
+ - Lab 1: End of the third week.
+ - Lab 2: End of the fourth week.
+ - Lab 3: End of the fifth week.
+ - Lab 4: End of the sixth week.
+ - Lab 5: End of the seventh week.
+ - Lab 6: End of the eighth week.
+ - Lab 7: End of the ninth week.
  
 At the start of term, I'll send out exact due dates.
 
