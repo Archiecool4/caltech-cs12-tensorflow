@@ -59,7 +59,7 @@ Note that TensorFlow currently _only supports Python 3.5-3.8_, so I will assume 
 I'm also assuming you're setting this up on a standard Linux system.
 If not, proceed carefully.
 
-I don't really have the bandwidth to help with setup issues, so if you're having trouble, you can try:
+If you're having trouble, you can try:
  - Using a clean virtualenv
  - Using a clean Linux VM
  - Asking a friend
